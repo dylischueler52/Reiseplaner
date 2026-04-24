@@ -1,12 +1,9 @@
-import './App.css'
+import ReisePage from "./components/ReiseplanerPage";
 
-function App() {
-
+export default function App() {
   return (
-    <>
-      
-    </>
-  )
+    <div>
+      <ReisePage />
+    </div>
+  );
 }
-
-export default App
