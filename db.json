@@ -1,0 +1,184 @@
+{
+    "reisen": [
+        {
+            "id": "1",
+            "name": "Malediven Traumstrand 1",
+            "ziel": "Malediven",
+            "dauer": 10,
+            "abenteuerlevel": 1,
+            "zweck": "Strandurlaub",
+            "jahreszeit": "Sommer"
+        },
+        {
+            "id": "2",
+            "name": "Schweizer Alpen Trek 2",
+            "ziel": "Schweiz",
+            "dauer": 5,
+            "abenteuerlevel": 5,
+            "zweck": "Bergwelt",
+            "jahreszeit": "Winter"
+        },
+        {
+            "id": "3",
+            "name": "Tokyo City Trip 3",
+            "ziel": "Japan",
+            "dauer": 7,
+            "abenteuerlevel": 3,
+            "zweck": "Stadtbesuch",
+            "jahreszeit": "Frühling"
+        },
+        {
+            "id": "4",
+            "name": "Patagonien Expedition 4",
+            "ziel": "Chile",
+            "dauer": 14,
+            "abenteuerlevel": 5,
+            "zweck": "Abenteuerreise",
+            "jahreszeit": "Herbst"
+        },
+        {
+            "id": "5",
+            "name": "Bali Beach Escape 5",
+            "ziel": "Indonesien",
+            "dauer": 12,
+            "abenteuerlevel": 2,
+            "zweck": "Strandurlaub",
+            "jahreszeit": "Sommer"
+        },
+        {
+            "id": "6",
+            "name": "Tirol Berge 6",
+            "ziel": "Österreich",
+            "dauer": 6,
+            "abenteuerlevel": 4,
+            "zweck": "Bergwelt",
+            "jahreszeit": "Winter"
+        },
+        {
+            "id": "7",
+            "name": "New York Adventure 7",
+            "ziel": "USA",
+            "dauer": 8,
+            "abenteuerlevel": 3,
+            "zweck": "Stadtbesuch",
+            "jahreszeit": "Herbst"
+        },
+        {
+            "id": "8",
+            "name": "Safari Tansania 8",
+            "ziel": "Tansania",
+            "dauer": 9,
+            "abenteuerlevel": 5,
+            "zweck": "Abenteuerreise",
+            "jahreszeit": "Sommer"
+        },
+        {
+            "id": "9",
+            "name": "Phuket Relax 9",
+            "ziel": "Thailand",
+            "dauer": 11,
+            "abenteuerlevel": 1,
+            "zweck": "Strandurlaub",
+            "jahreszeit": "Winter"
+        },
+        {
+            "id": "10",
+            "name": "Nepal Himalaya 10",
+            "ziel": "Nepal",
+            "dauer": 16,
+            "abenteuerlevel": 5,
+            "zweck": "Bergwelt",
+            "jahreszeit": "Herbst"
+        },
+        {
+            "id": "11",
+            "name": "Paris Kultur 11",
+            "ziel": "Frankreich",
+            "dauer": 4,
+            "abenteuerlevel": 2,
+            "zweck": "Stadtbesuch",
+            "jahreszeit": "Frühling"
+        },
+        {
+            "id": "12",
+            "name": "Alaska Wildnis 12",
+            "ziel": "USA",
+            "dauer": 13,
+            "abenteuerlevel": 5,
+            "zweck": "Abenteuerreise",
+            "jahreszeit": "Winter"
+        },
+        {
+            "id": "13",
+            "name": "Karibik Paradise 13",
+            "ziel": "Karibik",
+            "dauer": 10,
+            "abenteuerlevel": 1,
+            "zweck": "Strandurlaub",
+            "jahreszeit": "Sommer"
+        },
+        {
+            "id": "14",
+            "name": "Kanada Rockies 14",
+            "ziel": "Kanada",
+            "dauer": 7,
+            "abenteuerlevel": 4,
+            "zweck": "Bergwelt",
+            "jahreszeit": "Sommer"
+        },
+        {
+            "id": "15",
+            "name": "London Explorer 15",
+            "ziel": "England",
+            "dauer": 5,
+            "abenteuerlevel": 2,
+            "zweck": "Stadtbesuch",
+            "jahreszeit": "Herbst"
+        },
+        {
+            "id": "16",
+            "name": "Amazonas Trek 16",
+            "ziel": "Brasilien",
+            "dauer": 14,
+            "abenteuerlevel": 5,
+            "zweck": "Abenteuerreise",
+            "jahreszeit": "Sommer"
+        },
+        {
+            "id": "17",
+            "name": "Santorini Sun 17",
+            "ziel": "Griechenland",
+            "dauer": 6,
+            "abenteuerlevel": 1,
+            "zweck": "Strandurlaub",
+            "jahreszeit": "Sommer"
+        },
+        {
+            "id": "18",
+            "name": "Island Highlands 18",
+            "ziel": "Island",
+            "dauer": 8,
+            "abenteuerlevel": 4,
+            "zweck": "Bergwelt",
+            "jahreszeit": "Winter"
+        },
+        {
+            "id": "19",
+            "name": "Dubai Skyline 19",
+            "ziel": "VAE",
+            "dauer": 5,
+            "abenteuerlevel": 2,
+            "zweck": "Stadtbesuch",
+            "jahreszeit": "Winter"
+        },
+        {
+            "id": "20",
+            "name": "Namibia Desert Drive 20",
+            "ziel": "Namibia",
+            "dauer": 12,
+            "abenteuerlevel": 5,
+            "zweck": "Abenteuerreise",
+            "jahreszeit": "Herbst"
+        }
+    ]
+}
